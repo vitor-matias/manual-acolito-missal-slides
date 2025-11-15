@@ -1,0 +1,261 @@
+/* roman-missal.css */
+/* A Marp theme inspired by the Roman Missal:
+   - Ivory parchment background
+   - Black body text, rubric red accents
+   - Decorative red ribbon markers on each slide
+*/
+
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600;700&display=swap');
+/* Marp theme header */
+@theme roman-missal;
+
+/* ---------- Palette ---------- */
+:root {
+  --ivory: #f7f3e7;            /* warm parchment */
+  --ivory-deck: #f5efe0;       /* deck background for padding zones */
+  --black-ink: #1f1b16;        /* deep ink black/brown */
+  --rubric: #b30000;           /* rubric red (rich) */
+  --rubric-dark: #8a0000;
+  --gold: #bfa25c;             /* subtle gilded accent */
+  --shadow: rgba(0,0,0,0.08);
+}
+
+/* Recommended web-safe serif:
+   Preferably specify your own liturgical serif (e.g., EB Garamond, Crimson Pro).
+   Marp cannot bundle fonts; bring via CSS @import or host the font in your page.
+*/
+:root {
+  --font-serif: "EB Garamond", "Crimson Pro", "Garamond", "Georgia", "Times New Roman", serif;
+  --font-sans:  "Cormorant Garamond", "Noto Serif", "Georgia", serif;
+}
+
+/* ---------- Deck / Slide Base ---------- */
+section {
+  background: var(--ivory);
+  color: var(--black-ink);
+  font-family: var(--font-serif);
+  /* Comfortable text size; adjust with --scale for smaller screens */
+  font-size: 30px;
+  line-height: 1.35;
+  letter-spacing: 0.1px;
+  padding: 50px 50px 50px 100px;
+
+  /* Subtle “paper” effect */
+  box-shadow: 0 6px 24px var(--shadow) inset;
+  border: 1px solid rgba(0,0,0,0.06);
+  position: relative;
+}
+
+/* Optional deck background behind slides (visible in some modes) */
+.marpslide {
+  background: var(--ivory-deck);
+}
+
+/* ---------- Decorative Red Ribbon Marker (left spine) ---------- */
+/* A vertical ribbon strip on every slide */
+section::before {
+  content: "";
+  position: absolute;
+  left: 36px;
+  top: 0;
+  width: 36px;
+  height: 100%;
+  background:
+    linear-gradient(to bottom, var(--rubric), var(--rubric-dark));
+  border-color: var(--rubric-dark);
+  border-style: solid;
+  border-width: 2px;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  margin: 0 0 0.6em;
+  line-height: 1.1;
+}
+
+/* H1 as red rubric title, with gilded underline */
+h1 {
+  color: var(--rubric);
+  font-size: 1.9em; /* ~57px at base 30px */
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid var(--gold);
+  display: inline-block;
+}
+
+/* H2 in black with rubric smallcaps accent */
+h2 {
+  color: var(--black-ink);
+  font-size: 1.5em;
+}
+h2 em, h2 strong {
+  color: var(--rubric);
+  font-variant-caps: small-caps;
+}
+
+/* H3 as rubric paragraph head */
+h3 {
+  color: var(--rubric);
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+/* ---------- Paragraphs & Lists ---------- */
+p {
+  margin: 0 0 0.7em;
+}
+ul, ol {
+  margin: 0.2em 0 0.8em 1.1em;
+}
+li + li {
+  margin-top: 0.25em;
+}
+
+/* Liturgical “rubrics” span: use class .rubric in Markdown HTML for red instructions */
+.rubric, em.rubric {
+  color: var(--rubric);
+  font-style: normal;
+}
+
+/* Drop cap style (optional): add class .dropcap to the paragraph */
+.dropcap:first-letter {
+  color: var(--rubric);
+  float: left;
+  font-size: 2.4em;
+  line-height: 0.9;
+  padding-right: 0.08em;
+  font-weight: 600;
+}
+
+/* ---------- Quotes ---------- */
+blockquote {
+  border-left: 4px solid var(--rubric);
+  padding-left: 0.8em;
+  margin: 0.6em 0 0.8em;
+  color: #332a20;
+  font-style: italic;
+  background: rgba(179, 0, 0, 0.05);
+}
+
+/* ---------- Code ---------- */
+pre, code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+}
+pre {
+  background: rgba(0,0,0,0.04);
+  border: 1px solid rgba(0,0,0,0.08);
+  padding: 0.75em 1em;
+  border-radius: 6px;
+}
+
+/* ---------- Tables ---------- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.6em 0 1em;
+}
+th, td {
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  padding: 0.35em 0.5em;
+  text-align: left;
+}
+th {
+  color: var(--rubric);
+  border-bottom: 2px solid var(--rubric);
+}
+
+/* ---------- Links ---------- */
+a, a:visited {
+  color: var(--rubric);
+  text-decoration-color: var(--gold);
+}
+
+/* ---------- Images ---------- */
+img {
+  border: 4px double var(--gold);
+  padding: 6px;
+  background: rgba(255,255,255,0.55);
+  max-width: 100%;
+}
+
+/* ---------- Footer / Pagination ---------- */
+section footer, section .footer {
+  position: absolute;
+  left: 120px;
+  right: 80px;
+  bottom: 40px;
+  color: #4b4034;
+  font-size: 0.6em;
+  border-top: 1px solid rgba(0,0,0,0.12);
+  padding-top: 0.4em;
+}
+
+/* Marp pagination number */
+section::marker { /* (no-op fallback for older engines) */ }
+section .marp-pagination {
+  position: absolute;
+  right: 80px;
+  bottom: 40px;
+  color: var(--rubric);
+  font-weight: 600;
+  font-size: 0.65em;
+}
+
+/* ---------- Layout Helpers ---------- */
+/* Two-column helper: wrap content in <div class="cols"> with two <div> children */
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+}
+.center {
+  text-align: center;
+}
+.smallcaps {
+  font-variant-caps: small-caps;
+}
+
+/* ---------- Variants ---------- */
+/* Title slide variant: add class `title` via front-matter or slide HTML */
+section.title h1 {
+  font-size: 2.3em;
+  letter-spacing: 1px;
+}
+section.title::after {
+  /* ribbon tag slightly larger on title slide */
+  left: 26px;
+  top: 70px;
+  width: 30px;
+  height: 38px;
+}
+
+/* “Mass part” callout box */
+.callout {
+  border: 2px solid var(--rubric);
+  padding: 0.8em 1em;
+  background: rgba(179,0,0,0.035);
+  border-radius: 6px;
+}
+
+.columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+/* ---------- Print / PDF ---------- */
+@page {
+  size: 1280px 720px; /* 16:9 default; change to 1920x1080 if desired */
+  margin: 0;
+}
+@media print {
+  section {
+    box-shadow: none !important;
+  }
+}
