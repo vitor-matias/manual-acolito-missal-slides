@@ -26,7 +26,7 @@ Como marcar e manusear o Missal para Acólitos
 * Exercício da função sacerdotal de Cristo e do seu Corpo Místico através de sinais sensíveis (CIC 1070)
 * Cristo age com a Igreja e por ela na obra da redenção (CIC 1069)
 
-<!--É atraves da liturgia que encontramos as graças que Jesus, através do Espirito Santo, nos deixou-->
+<!--É através da liturgia que encontramos as graças que Jesus, através do Espirito Santo, nos deixou-->
 <!--O que é a obra de Deus? É tudo, mas no contexto daquilo que o catecismo chama de economia da salvação, portanto da forma como Deus salvou o mundo e nos redimiu, tornou possivel vivermos em relação e ligados e Ele-->
   
 ---
