@@ -1,8 +1,8 @@
 {
   "scripts": {
     "start": "marp --server --watch --theme roman-missal.css ./",
-    "pdf": "marp --allow-local-files --pdf --theme roman-missal.css ./slides.md -o ./missal-romano.pdf",
-    "html": "marp --allow-local-files --html --theme roman-missal.css ./slides.md -o ./missal-romano.html"
+    "pdf": "marp --allow-local-files --pdf --theme roman-missal.css ./slides.md -o ./dist/missal-romano.pdf",
+    "html": "marp --allow-local-files --html --theme roman-missal.css ./slides.md -o ./dist/missal-romano.html"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^4.2.3",
