@@ -127,7 +127,7 @@ O Missal é, portanto, o instrumento oficial que assegura que a Eucaristia é ce
 ## Revisão após o Concílio Vaticano II
 
 * Entre 1965 e 1967, mudanças foram feitas conforme o documento *Sacrosanctum Concilium*.  
-* Em 1969, São Paulo VI promulgou uma nova edição com grandes reformas:  
+* Em 1969, São Paulo VI promulgou uma nova edição com grandes reformas (Constituição Apostólica *Missale Romanum*):  
   * Introdução de novas Orações Eucarísticas.  
   * Simplificação dos ritos.  
   * Aumento das leituras bíblicas na Missa.  
@@ -149,6 +149,7 @@ O Missal é, portanto, o instrumento oficial que assegura que a Eucaristia é ce
 * Lecionário
 * Evangeliário
 * Oração Universal
+* Pontifical
 
 ---
 
@@ -246,7 +247,6 @@ O acólito deve saber lê-las, porque nelas se encontram as indicações que tor
 ## O que podemos encontrar nas páginas do Temporal/Santoral/Comum?
 
 * Orações Presidenciais
-
   * Oração Coleta
   * Oração sobre as Oblatas
   * Oração depois da Comunhão
@@ -281,7 +281,6 @@ Estes ritos criam unidade entre os participantes e introduzem o tema da celebra�
 ---
 
 ![bg height:90%](imgs/ritos_iniciais_presi.jpg)
-
 
 ---
 
@@ -426,6 +425,15 @@ Oração central da Missa, que inclui:
 * Oblação
 * Intercessões
 * Doxologia final
+
+<!--É o momento mais solene da Missa, onde o pão e o vinho deixam de ser pão e vinho e se transformam no Corpo e Sangue de Cristo.-->
+<!--Prefácio é a parte inicial da Oração Eucarística, onde se expressa ação de graças e louvor a Deus.-->
+<!--Na Epíclese é invocado o Espírito Santo para santificar os dons do pão e do vinho.-->
+<!--Na Narrativa da Instituição revivemos as palavras e ações de Jesus na Última Ceia.-->
+<!--Anamnese é a recordação do sacrifício de Cristo e a proclamação da sua ressurreição.-->
+<!--Oblação é a oferta dos dons consagrados e dos nossos corações a Deus, em união com o sacrifício de Cristo.-->
+<!--Nas Intercessões pedimos pela Igreja, pelos vivos e pelos falecidos e por toda a humanidade.-->
+<!--Doxologia final é a conclusão da Oração Eucarística. Louvamos a Deus e reconhecemos a obra de Cristo.-->
 
 ![bg right:35% contain](imgs/orações%20eucaristicas.jpg)
 
