@@ -508,6 +508,15 @@ O **Diretório Litúrgico** é um documento oficial da Igreja que indica, para c
 
 ![bg height:90% contains](imgs/diretorio-liturgico-2026%202.jpg)
 
+---
+
+# Checklist de Marcação do Missal
+
+* Verificar a data da Missa no Diretório Litúrgico e marcar a página própria do Temporal/Santoral, conforme indicado.  
+  * Caso indique prefácio próprio e estiver nas mesmas paginas da oração sobre as oblatas, não é necessário assinalar o prefácio; caso contrário, marcar o prefácio a usar. Se disser "prefácio à escolha", pergunta-se ao sacerdote qual usar.
+  * Caso na página própria indique ato penitencial, prefácio, bênção, etc, marcar as páginas mencionadas.
+* Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e usar a pega no momento devido).  
+* Assinalar outros momentos a pedido do sacerdote (ato penitencial ou bênção final específicos, por exemplo).
 
 ---
 
