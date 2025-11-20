@@ -434,6 +434,7 @@ Oração central da Missa, que inclui:
 <!--Oblação é a oferta dos dons consagrados e dos nossos corações a Deus, em união com o sacrifício de Cristo.-->
 <!--Nas Intercessões pedimos pela Igreja, pelos vivos e pelos falecidos e por toda a humanidade.-->
 <!--Doxologia final é a conclusão da Oração Eucarística. Louvamos a Deus e reconhecemos a obra de Cristo.-->
+<!--Doxo: glória; logia: discurso-->
 
 ![bg right:35% contain](imgs/orações%20eucaristicas.jpg)
 
@@ -446,14 +447,23 @@ Oração central da Missa, que inclui:
 
 # Ritos da Comunhão (IGMR 80–89)
 
-* Oração Dominical (IGMR 81)
-* Rito da Paz/Embolismo (IGMR 82)
+* Oração Dominical + Embolismo (IGMR 81)
+* Rito da Paz (IGMR 82)
 * Fração do Pão (IGMR 83)    
 * Comunhão (IGMR 84-89)
   * Ação de Graças/Silêncio de agradecimento (IGMR 88)
   * Oração depois da Comunhão (IGMR 89)
 
 ![bg right:45% contain](imgs/ritos%20da%20comunhao.jpg)
+
+<!--Terminada a oração eucaristica passamos aos ritos da Comunhão-->
+<!--Muito pode ser dito sobre a oração dominical. Na oração do Pai Nosso pedimos, em particular, pelo pão nosso de cada dia, em particular o pão Eucaristico-->
+<!--Embolismo (de embalo) desenvolve a ultima petição do pai nosso (livrai-nos do mal)-->
+<!--Rito da Paz: imploramos à unidade da Igreja e exprimimos uns aos outros a comunhão da paz-->
+<!--Na fração do pão, o sacerdote parte o pão eucaristico. É um gesto que, nos tempos da Igreja primitiva designava toda a ação eucaristica-->
+<!--Comunhão: momento em que os fiéis recebem o Corpo e Sangue de Cristo-->
+<!--Ação de graças: momento de silencio para agradecer a Deus o dom recebido-->
+<!--Oração depois da comunhão: completa a oração do povo de Deus e conclui o Rito da Comunhão-->
 
 ---
 
@@ -463,6 +473,8 @@ Ação de graças pelos dons recebidos, pedindo que a Eucaristia produza frutos 
 
 Caso se esteja a usar o Missal da Presidência, o acólito deve arrumar o Missal "completo" que está sobre o altar e repor o Missal da Presidência e respetiva estante.\
 Deve-se voltar à página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da missa do dia.
+
+<!---->
 
 ![bg right:45% contain](imgs/oracao%20coleta%203.png)
 
@@ -482,7 +494,7 @@ Encerram a celebração e enviam os fiéis para viverem a fé no dia a dia. É u
 
 # Bênção Solene
 
-Em certas celebrações por indicação de uma rubrica  ou por preferência do celebrante a bênção final pode ser solene.
+Em certas celebrações por indicação de uma rubrica ou por preferência do celebrante a bênção final pode ser solene.
 
 ![bg right contain](imgs/bencao_solenes.jpeg)
 
