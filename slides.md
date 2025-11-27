@@ -41,7 +41,7 @@ Como marcar e manusear o Missal para Acólitos
 <!--E é através da liturgia que entramos e participamos naquilo que Ele fez por nós. É importante compreender isto e vamos usar o termo Liturgia montes de vezes-->
 <!--Então é a participação na obra de Deus com objetivo de louvor, redenção, santificação e reconciliação.-->
 <!--E sempre que participamos nos sacramentos participamos na a obra de Deus, mais concretamente e neste contexto no sacramento da Eucaristia-->
-<!--Sacramento é um sinal sensivel instituido por NSJC e confiados à Igreja para produzir a graça nas nossas almas e santifica-las-->
+
 
 ---
 
@@ -70,6 +70,7 @@ Como marcar e manusear o Missal para Acólitos
 * **Sacramento do Amor**.
 
 <!--Cada nome da Missa reflete um aspeto particular da sua riqueza e profundidade, ajudando-nos a compreender melhor o mistério que celebramos.-->
+<!--Sacramento é um sinal sensivel instituido por NSJC e confiados à Igreja para produzir a graça nas nossas almas e santifica-las-->
 
 ---
 
