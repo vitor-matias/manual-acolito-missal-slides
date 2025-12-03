@@ -41,6 +41,7 @@ Como marcar e manusear o Missal para Acólitos
 <!--E é através da liturgia que entramos e participamos naquilo que Ele fez por nós. É importante compreender isto e vamos usar o termo Liturgia montes de vezes-->
 <!--Então é a participação na obra de Deus com objetivo de louvor, redenção, santificação e reconciliação.-->
 <!--E sempre que participamos nos sacramentos participamos na a obra de Deus, mais concretamente e neste contexto no sacramento da Eucaristia-->
+<!--Sacramento é um sinal sensível instituído por NSJC e confiado à Igreja para produzir a graça nas nossas almas e santificá-las-->
 
 
 ---
@@ -285,10 +286,6 @@ Estes ritos criam unidade entre os participantes e introduzem o tema da celebra�
 ---
 
 ![bg height:90%](imgs/ritos_iniciais_presi.jpg)
-
----
-
-# Entrada, Saudação do Altar e da Assembleia (IGMR 47-50)
 
 ---
 
