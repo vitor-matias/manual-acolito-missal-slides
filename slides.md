@@ -26,8 +26,8 @@ Como marcar e manusear o Missal para Acólitos
 * Exercício da função sacerdotal de Cristo e do seu Corpo Místico através de sinais sensíveis (CIC 1070)
 * Cristo age com a Igreja e por ela na obra da redenção (CIC 1069)
 
-<!--É através da liturgia que encontramos as graças que Jesus, através do Espirito Santo, nos deixou-->
-<!--O que é a obra de Deus? É tudo, mas no contexto daquilo que o catecismo chama de economia da salvação, portanto da forma como Deus salvou o mundo e nos redimiu, tornou possivel vivermos em relação e ligados e Ele-->
+<!--É através da liturgia que encontramos as graças que Jesus, através do Espírito Santo, nos deixou-->
+<!--O que é a obra de Deus? É tudo, mas no contexto daquilo que o catecismo chama de economia da salvação, portanto da forma como Deus salvou o mundo e nos redimiu, tornou possível vivermos em relação e ligados a Ele-->
   
 ---
 
@@ -47,13 +47,13 @@ Como marcar e manusear o Missal para Acólitos
 
 # A Missa (CIC 1322-1419) (IGMR)
 
->A Eucaristia é o memorial da Páscoa de Cristo, isto é, da obra do salvação realizada pela vida, morte e ressurreição de Cristo, obra tornada presente pela ação litúrgica. (CIC 1409)
+>A Eucaristia é o memorial da Páscoa de Cristo, isto é, da obra da salvação realizada pela vida, morte e ressurreição de Cristo, obra tornada presente pela ação litúrgica. (CIC 1409)
 
 >Na Missa ou Ceia do Senhor, o povo de Deus é convocado e reunido, sob a presidência do sacerdote que faz as vezes de Cristo, para celebrar o memorial do Senhor ou sacrifício eucarístico. A esta assembleia local da santa Igreja se aplica eminentemente a promessa de Cristo: “Onde estiverem dois ou três reunidos em meu nome, aí estou Eu no meio deles” (Mt 18, 20). Com efeito, na celebração da Missa, em que se perpetua o sacrifício da cruz, Cristo está realmente presente: na própria assembleia congregada em seu nome, na pessoa do ministro, na sua palavra e, ainda, de uma forma substancial e permanente, sob as espécies eucarísticas. (IGMR 27)
 
-<!--O que é a Eucaristia? é a constante renovação do sacrificio do Filho ao Pai pelo poder do ES. E nós podemos e devemos participar nesta liturgia-->
-<!--Muitos vezes somos meros observadores mas somos chamados a ser participantes plenos-->
-<!--E para participar plenamente temos que perceber o que está a acontecer e participar de todas as maneiras possiveis, de acordo com o ministério liturgico de cada um-->
+<!--O que é a Eucaristia? É a constante renovação do sacrifício do Filho ao Pai pelo poder do Espírito Santo. E nós podemos e devemos participar nesta liturgia-->
+<!--Muitas vezes somos meros observadores mas somos chamados a ser participantes plenos-->
+<!--E para participar plenamente temos que perceber o que está a acontecer e participar de todas as maneiras possíveis, de acordo com o ministério litúrgico de cada um-->
 <!--Qual o nosso ministério liturgico? Que outros existem? Ministro Ordenado/Sacerdote, leitor, cantor, sacristão, ofertório, acolhimento, MEC-->
 
 ---
@@ -69,8 +69,8 @@ Como marcar e manusear o Missal para Acólitos
 * **Santa e Divina Liturgia** (CIC 1330).
 * **Sacramento do Amor**.
 
-<!--Cada nome da Missa reflete um aspeto particular da sua riqueza e profundidade, ajudando-nos a compreender melhor o mistério que celebramos.-->
-<!--Sacramento é um sinal sensivel instituido por NSJC e confiados à Igreja para produzir a graça nas nossas almas e santifica-las-->
+<!--Cada nome da Missa reflete um aspecto particular da sua riqueza e profundidade, ajudando-nos a compreender melhor o mistério que celebramos.-->
+<!--Sacramento é um sinal sensível instituído por NSJC e confiado à Igreja para produzir a graça nas nossas almas e santificá-las-->
 
 ---
 
@@ -84,11 +84,12 @@ Como marcar e manusear o Missal para Acólitos
 
 * **Santificação dos fiéis** (CIC 1391-1397).
 * **Unidade do Corpo de Cristo** (CIC 1396).
-* **Alimento espiritual**: fortalece a vida cristã (CIC 1392).
+* **Alimento Espiritual**: fortalece a vida cristã (CIC 1392).
 
-<!--Todos participam pela oração e entrega dos seus corações no sacrificio da Eucaristia em conjunto como Ministro Ordenado e Jesus Cristo, Sumo Sacerdote-->
-<!--Quem preside à Eucaristia? é, de forma invisivel, Jesus Cristo. O ministro ordenado preside na sua pessoa, in persona Christi Capitis-->
+<!--Todos participam pela oração e entrega dos seus corações no sacrifício da Eucaristia em conjunto com o Ministro Ordenado e Jesus Cristo, Sumo Sacerdote-->
+<!--Quem preside à Eucaristia? É, de forma invisível, Jesus Cristo. O ministro ordenado preside na sua pessoa, in persona Christi Capitis-->
 <!--Então, sempre que vamos à missa participamos nesta obra de Deus. Liturgia é isto-->
+<!--Mas então, como celebrar a Missa?-->
 
 ---
 
@@ -122,6 +123,8 @@ O Missal é, portanto, o instrumento oficial que assegura que a Eucaristia é ce
 * Houve revisões por Clemente VIII (1604), Urbano VIII (1634), Leão XIII (1884), São Pio X (1920) e Pio XII (1955).  
 * Pio XII introduziu mudanças significativas, como o uso das línguas vernáculas na Vigília Pascal.  
 * João XXIII publicou a edição de 1962, com alterações como a inclusão de São José no cânone da Missa.
+
+<!--O Concilio de Trento foi um marco importante na história da Igreja no que diz respeito à liturgia.-->
 
 ---
 
@@ -254,7 +257,7 @@ O acólito deve saber lê-las, porque nelas se encontram as indicações que tor
 
 * Prefácio
 
-* Antifonas e rubricas específicas
+* Antífonas e rubricas específicas
 
 ---
 
@@ -291,7 +294,7 @@ Estes ritos criam unidade entre os participantes e introduzem o tema da celebra�
 
 # Ato Penitencial e Kyrie Eleison (IGMR 51-52)
 
-Momento em que a assembleia reconhece as próprias faltas diante de Deus, pede perdão e misericordia. 
+Momento em que a assembleia reconhece as próprias faltas diante de Deus, pede perdão e misericórdia. 
 
 É um gesto de humildade e preparação para participar dignamente na celebração. 
 
@@ -398,7 +401,7 @@ A Liturgia Eucarística é o coração da Missa.
 
 Nela, os dons de pão e vinho são apresentados, consagrados e distribuídos aos fiéis como Corpo e Sangue de Cristo. 
 
-Este rito renova o sacrifício de Cristo na cruz e une os participantes à sua entrega total ao Pai pelo através do Espirito Santo.
+Este rito renova o sacrifício de Cristo na cruz e une os participantes à sua entrega total ao Pai através do Espírito Santo.
 
 Caso se esteja a usar o Missal da Presidência, o acólito deve mudar para o Missal "completo" nesta parte da Missa, colocando-o sobre o altar, aberto na página com a Oração sobre as Oblatas.
 
@@ -457,13 +460,13 @@ Oração central da Missa, que inclui:
 
 ![bg right:45% contain](imgs/ritos%20da%20comunhao.jpg)
 
-<!--Terminada a oração eucaristica passamos aos ritos da Comunhão-->
-<!--Muito pode ser dito sobre a oração dominical. Na oração do Pai Nosso pedimos, em particular, pelo pão nosso de cada dia, em particular o pão Eucaristico-->
+<!--Terminada a oração eucarística passamos aos ritos da Comunhão-->
+<!--Muito pode ser dito sobre a oração dominical. Na oração do Pai Nosso pedimos, em particular, pelo pão nosso de cada dia, em particular o pão Eucarístico-->
 <!--Embolismo (de embalo) desenvolve a ultima petição do pai nosso (livrai-nos do mal)-->
 <!--Rito da Paz: imploramos à unidade da Igreja e exprimimos uns aos outros a comunhão da paz-->
-<!--Na fração do pão, o sacerdote parte o pão eucaristico. É um gesto que, nos tempos da Igreja primitiva designava toda a ação eucaristica-->
+<!--Na fração do pão, o sacerdote parte o pão eucarístico. É um gesto que, nos tempos da Igreja primitiva, designava toda a ação eucarística-->
 <!--Comunhão: momento em que os fiéis recebem o Corpo e Sangue de Cristo-->
-<!--Ação de graças: momento de silencio para agradecer a Deus o dom recebido-->
+<!--Ação de graças: momento de silêncio para agradecer a Deus o dom recebido-->
 <!--Oração depois da comunhão: completa a oração do povo de Deus e conclui o Rito da Comunhão-->
 
 ---
@@ -505,13 +508,13 @@ Em certas celebrações por indicação de uma rubrica ou por preferência do ce
 
 A IGMR sugere que o Missal seja marcado de forma a facilitar o acesso rápido às partes essenciais da celebração.
 
-No capitulo VII da IGMR (A escolha da Missa e das suas partes) são dadas orientações sobre a escolha das partes da Missa para diferentes celebrações e tempos litúrgicos.
+No capítulo VII da IGMR (A escolha da Missa e das suas partes) são dadas orientações sobre a escolha das partes da Missa para diferentes celebrações e tempos litúrgicos.
 
 Mas há uma maneira mais simples...
 
 ---
 
-# Diretorio Liturgico
+# Diretório Litúrgico
 
 O **Diretório Litúrgico** é um documento oficial da Igreja que indica, para cada dia do ano, os santos celebrados, as leituras, a cor dos paramentos, o prefácio e as orações a usar, bem como outras informações litúrgicas essenciais.
 
@@ -535,7 +538,7 @@ O **Diretório Litúrgico** é um documento oficial da Igreja que indica, para c
 
 # O Acólito do Missal durante a Celebração
 
-Durante a celebração e com o Missal devidamente marcado, o acólito deve estar **atento aos momentos** em que o sacerdote necessita da passagem de página ou mudança de secção.
+Durante a celebração e com o Missal devidamente marcado, o acólito deve estar **atento aos momentos** em que o sacerdote necessita da passagem de página ou mudança de seção.
 
 Também deve estar vigilante quanto às alturas em que outros livros ou textos, como o da Oração Universal ou as intenções dos fiéis, são necessários para os entregar ao sacerdote com **prontidão e discrição**.
 
@@ -551,7 +554,7 @@ As mudanças para outras partes do Missal, feitas através de fitas ou pegas, ge
 
 ---
 
-# Resumo das mudanças de página/secção do Missal durante uma Missa "normal"
+# Resumo das mudanças de página/seção do Missal durante uma Missa "normal"
 
 1. Página das orações presidenciais (oração coleta)
 1. Página das orações presidenciais (oração sobre as oblatas)
