@@ -2,6 +2,7 @@
 marp: true
 theme: roman-missal
 paginate: false
+transition: slide
 ---
 
 # Missal Romano
