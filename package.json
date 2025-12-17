@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "marp --server --watch --theme roman-missal.css ./",
+    "start": "marp --allow-local-files --server --watch --theme roman-missal.css ./",
     "pdf": "marp --allow-local-files --pdf --theme roman-missal.css ./slides.md -o ./dist/missal-romano.pdf",
     "html": "marp --allow-local-files --html --theme roman-missal.css ./slides.md -o ./dist/index.html && npm run copy-images",
     "copy-images": "cp -r imgs dist/imgs || xcopy /E /I imgs dist\\imgs"
